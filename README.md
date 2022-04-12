@@ -1,32 +1,34 @@
 # Handwritten Captcha Detection (Emoji and Text)
-This is an Emoji and Text Recognizer made for MOSAIC, Udyam'22, organized by IIT(BHU).
+This is an Emoji and Text Recognizer made for MOSAIC, Udyam'22, organized by IIT(BHU).<br/>
 
-**Team Name:** MoCa
+**Team Name:** MoCa <br/>
 
-**Team members:**Vedant Gupta
-              Debasish Chakraborty
-              Nachiketa
+**Team members:**<br/>
+Vedant Gupta<br/>
+Debasish Chakraborty<br/>
+Nachiketa<br/>
 
-**Problem Statement:** 
+**Problem Statement:** <br/>
 The task is to automatically detect what is written in the
 Captcha given to you. Generally simple captchas
 consist of numbers and letters in a distorted format,
 but there is a twist to the PS. Instead of numbers, the
-captcha will consist of letters and emojis!
+captcha will consist of letters and emojis!<br/>
 
 You have to map the emojis in the captcha to numbers,
 i.e. when you print the output, you need to print the
 number corresponding to the emoji detected in the
 captcha,
-The mapping will be as follows:
-Checkmark : 1
-Cloud: 2
-Croissant: 3
-Heart: 4
-Laugh: 5
-Smile: 6
-Sun: 7
+The mapping will be as follows:<br/>
+Checkmark : 1<br/>
+Cloud: 2<br/>
+Croissant: 3<br/>
+Heart: 4<br/>
+Laugh: 5<br/>
+Smile: 6<br/>
+Sun: 7<br/>
 
 
-**Dataset Used:** For Letters: kaggle.com/datasets/crawford/emnist
-              For Emojis: https://drive.google.com/drive/folders/1sw0XVroXFh
+**Dataset Used:** <br/>
+For Letters: kaggle.com/datasets/crawford/emnist<br/>
+For Emojis: https://drive.google.com/drive/folders/1sw0XVroXFh<br/>
