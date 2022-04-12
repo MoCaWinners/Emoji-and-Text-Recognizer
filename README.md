@@ -40,8 +40,8 @@ For Emojis: https://drive.google.com/drive/folders/1sw0XVroXFh<br/>
 **Note:**  All images are drawn on Microsoft Whiteboard</br>
 </br>
 </br>
-![sample_1](https://github.com/MoCaWinners/Emoji-and-Text-Recognizer/blob/main/images/sample_1.png?raw=true)</br>
 </br>
+![sample_1](https://github.com/MoCaWinners/Emoji-and-Text-Recognizer/blob/main/images/sample_1.png?raw=true)</br>
 </br>
 ![sample_2](https://github.com/MoCaWinners/Emoji-and-Text-Recognizer/blob/main/images/sample_2.png?raw=true)</br>
 </br>
