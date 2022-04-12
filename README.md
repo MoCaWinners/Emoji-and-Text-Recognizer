@@ -30,5 +30,5 @@ Sun: 7<br/>
 
 
 **Dataset Used:** <br/>
-For Letters: kaggle.com/datasets/crawford/emnist<br/>
+For Letters: https://www.kaggle.com/datasets/crawford/emnist<br/>
 For Emojis: https://drive.google.com/drive/folders/1sw0XVroXFh<br/>
