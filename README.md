@@ -3,7 +3,7 @@ This is an Emoji and Text Recognizer made for MOSAIC, Udyam'22, organized by IIT
 
 **Team Name:** MoCa
 
-**Team members: **Vedant Gupta
+**Team members:**Vedant Gupta
               Debasish Chakraborty
               Nachiketa
 
