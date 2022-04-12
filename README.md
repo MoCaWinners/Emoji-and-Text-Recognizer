@@ -35,7 +35,7 @@ For Emojis: https://drive.google.com/drive/folders/1sw0XVroXFh<br/>
 
 <br/>
 <br/>
-                                         **We tested our model on multiple Sample Images and these are the results:-**<br/>
+**We tested our model on multiple Sample Images and these are the results:-**<br/>
 </br>
 **Note:**  All images are drawn on Microsoft Whiteboard</br>
 </br>
