@@ -33,19 +33,3 @@ Sun: 7<br/>
 For Letters: https://www.kaggle.com/datasets/crawford/emnist<br/>
 For Emojis: https://drive.google.com/drive/folders/1sw0XVroXFh<br/>
 
-<br/>
-<br/>
-**We tested our model on multiple Sample Images and these are the results:-**<br/>
-</br>
-**Note:**  All images are drawn on Microsoft Whiteboard</br>
-</br>
-</br>
-</br>
-![sample_1](https://github.com/MoCaWinners/Emoji-and-Text-Recognizer/blob/main/images/sample_1.png?raw=true)</br>
-</br>
-![sample_2](https://github.com/MoCaWinners/Emoji-and-Text-Recognizer/blob/main/images/sample_2.png?raw=true)</br>
-</br>
-</br>
-![sample_3](https://github.com/MoCaWinners/Emoji-and-Text-Recognizer/blob/main/images/sample_3.png?raw=true)</br>
-
-
